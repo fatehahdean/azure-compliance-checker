@@ -9,7 +9,7 @@ A Python tool that connects to a live Microsoft Azure subscription and performs 
 - Flags missing tags as governance warnings
 
 ## Why it matters
-Missing tags mean you can't track costs by team or project — a common governance gap in enterprise cloud environments. This tool supports FinOps and cloud operating model best practices.
+Missing tags mean we can't track costs by team or project which is a common governance gap in enterprise cloud environments. This tool supports FinOps and cloud operating model best practices.
 
 ## Technologies used
 - Python 3.13
